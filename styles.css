@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #1b9acc;
+    --laranja-claro: #e90984;
     --alto-contraste-fundo: #4304b9;
     --alto-contraste-texto: 14#09a9f3b4;
     --alto-contraste-link: #b256fd;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #1198e6;
+    background-color: #df09bb9c;
 }
 
 
